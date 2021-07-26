@@ -1,0 +1,10 @@
+
+#image, #video {
+    width: 700px;
+}
+#option {
+    width: 560px;
+}
+.fas:hover {
+    cursor: pointer;
+}
